@@ -1,0 +1,30 @@
+p.one {
+    border: 2px solid black;
+    outline: 10px solid green;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    outline-style: dotted;
+}
+
+p.two {
+    padding: 50px;
+    text-align: center;
+    outline-style: solid;
+    outline-color: red;
+    border: 2px solid black;
+    margin: auto;
+    outline-width: 10px;
+}
+
+p.three {
+    padding: 50px;
+    text-align: center;
+    outline-style: solid;
+    outline-color: greenyellow;
+    border: 2px solid black;
+    margin: auto;
+    outline-width: 10px;
+    outline-offset: 15px;
+}
+
