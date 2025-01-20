@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: green;
+}
+
+p.one {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+p.two {
+    text-align: center;
+    text-decoration-line: underline;
+}
