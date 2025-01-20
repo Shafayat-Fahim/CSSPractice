@@ -1,0 +1,18 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-size: 100px;
+}
+
+p.one {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+p.two {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p.three {
+    font-family: "Audiowide", sans-serif;
+}
