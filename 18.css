@@ -1,0 +1,19 @@
+.a {
+    list-style-type: circle;
+}
+
+.b {
+    list-style-type: square;
+}
+
+.c {
+    list-style-type: lower-alpha;
+}
+
+.d {
+    list-style-type: lower-roman;
+}
+
+.e {
+    list-style-image: url("images/1.jpg");
+}
