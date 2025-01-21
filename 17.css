@@ -1,0 +1,32 @@
+.twitter:link {
+    color: yellowgreen;
+}
+
+.twitter:visited {
+    color: red;
+}
+
+.twitter:hover {
+    color: magenta;
+    text-decoration: underline;
+}
+
+.twitter:active {
+    color: blue;
+}
+
+.instagram:link {
+    background-color: red;
+}
+
+.facebook:link, .facebook:visited {
+    background-color: cyan;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.facebook:hover, .facebook:active {
+    background-color: red;
+}
