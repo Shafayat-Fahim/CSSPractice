@@ -1,0 +1,7 @@
+.one {
+    position: absolute;
+    right: 0px;
+    width: 350px;
+    border: 3px solid red;
+    padding: 10px;
+}
